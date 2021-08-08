@@ -55,7 +55,7 @@ def PPCM(nb):
         ppcm *= i**factors[i]
     return ppcm
 
-print(PPCM(20))
+print(PPCM(50))
 # 232792560
 
 
